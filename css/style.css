@@ -1,0 +1,72 @@
+
+#main{
+    background: white;
+    height: 1000px;
+    width: 1000px;
+    margin:auto;
+}
+#titresite{
+    display:inline-block;
+    width:300px;
+    height:100px;
+    vertical-align:top;
+}
+#logo{
+    height:39px;
+    width:31px;
+    position:relative;
+    vertical-align:top;
+}
+#aide{
+    width:300px;
+    display:inline-block;
+}
+#moncompte{
+    width:300px;
+    display:inline-block;
+    vertical-align:top;
+    margin-left:40px;
+}
+#nav a{
+    display:inline-block;
+    margin:0;
+    width: 166.66px;
+    text-align:center;
+    background-color:cyan;
+    color: white;
+}
+#seconnecter{
+    float: right;
+    text-align:center;
+}
+#panier{
+    float: right;
+}
+.clear{
+    clear:both;
+}
+#header{
+    position:fixed;
+    z-index:1;
+    background-color:white;
+    width:1000px;
+}
+#contenant{
+    position:absolute;
+    top:130px;
+}
+#paiement {
+    width: 200px;
+    display: inline-block;
+    vertical-align: top;
+}
+#quisommesnous {
+    width: 600px;
+    display: inline-block;
+    vertical-align: top;
+}
+#services {
+    width: 200px;
+    display: inline-block;
+    vertical-align: top;
+}
